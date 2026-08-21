@@ -48,7 +48,7 @@ SmarTech was developed as an academic native Android application project.
 
 ## Contributors
 
-- **Chelsea Rose J. Pimentel** — User registration and authentication, emergency-contact management, voice-assistant navigation, and color-coded assistant modes
+- **Chelsea Rose Pimentel** — User registration and authentication, emergency-contact management, voice-assistant navigation, and color-coded assistant modes
 - **Pia Lorraine Tantay** — Emergency assistance, help-command workflow, SMS messaging, and location-sharing features
 - **John Clement Quirante** — Camera-based object recognition using CameraX and Google ML Kit
 - **James Cheong** — Daily planner, voice reminders, task priorities, and repeat scheduling
